@@ -7,7 +7,7 @@ public class Chco : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("choco");
     }
 
     // Update is called once per frame
